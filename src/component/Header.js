@@ -17,7 +17,7 @@ function Header({logo, search, addevent, notification,user}) {
 
 
         <ul className="sign">
-      
+          
         <button className="signup"><Link to="/signup">SIGNUP</Link></button>
         <button className="signin"> <Link to="/signin"> SIGNIN </Link></button>
         </ul>

@@ -36,11 +36,19 @@ button{
   background: #3A4148;
   background-color: #CEF5FF;
   letter-spacing: 1.25px;
+  border-radius: 4px;
+  width: 100px;
+  height: 48px;
+
 }
 .signin{
   background: #3A4148;
 color: #CEF5FF;
 letter-spacing: 1.25px;
+ border-radius: 4px;
+ width: 100px;
+ height: 48px;
+
 }
 
 .divs{
@@ -112,6 +120,9 @@ padding: 0 50px;
 }
 .myevent{
   margin: 50px;
+}
+.myevent p{
+  font-weight: 400;
 }
 .browse{
   display: flex;

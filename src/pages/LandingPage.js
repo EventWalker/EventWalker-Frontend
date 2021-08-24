@@ -29,7 +29,7 @@ function LandingPage() {
                     </div>
 
                     <div className="div2">
-                        <img src={logo} alt="logo" />;
+                        <img src={logo} alt="logo" />
                     </div>
                 </section>
                 <article className="Landart">
@@ -61,21 +61,21 @@ function LandingPage() {
                 <section className="events">
 
                     <div className="myevent">
-                        <img src={image2} alt="logo" />;
+                        <img src={image2} alt="logo" />
                         <p>Put an upcomming event here</p>
                     </div>
 
                     <div className="myevent">
-                        <img src={image3} alt="logo" />;
+                        <img src={image3} alt="logo" />
                         <p>Put an upcomming event here</p>
                     </div>
 
                     <div className="myevent">
-                        <img src={image4} alt="logo" />;
+                        <img src={image4} alt="logo" />
                         <p>Put an upcomming event here</p>
                     </div>
                 </section>
-                <section class='bright'>
+                <section className='bright'>
                     <div className="browse">
                         <img src={image5} alt="logo" className="browser" />
                         <div>
@@ -123,19 +123,19 @@ function LandingPage() {
                     <div>
                         <div className="events">
                             <div className="pastevent">
-                                <img src={image9} alt="logo" />;
+                                <img src={image9} alt="logo" />
                                 <p>Put a past Event here</p>
                                 <p>Attendant review <FaStar size="12px" /><FaStar size="12px" /><FaStar size="12px" /></p>
                             </div>
 
                             <div className="pastevent">
-                                <img src={image11} alt="logo" />;
+                                <img src={image11} alt="logo" />
                                 <p>Put a past Event here</p>
                                 <p>Attendant review <FaStar size="12px" /><FaStar size="12px" /><FaStar size="12px" /></p>
                             </div>
 
                             <div className="pastevent">
-                                <img src={image10} alt="logo" />;
+                                <img src={image10} alt="logo" />
                                 <p>Put a past Event here</p>
                                 <p>Attendant review <FaStar size="12px" /><FaStar size="12px" /><FaStar size="12px" /></p>
                             </div>
