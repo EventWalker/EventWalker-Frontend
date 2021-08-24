@@ -21,7 +21,7 @@ function LandingPage() {
     return (
         <section>
             <Header />
-            <div className="">
+            <div>
                 <section className="divs">
                     <div className="div1">
                         <h2>Let’s walk you where your favorite events take place. Let’s Go!</h2>

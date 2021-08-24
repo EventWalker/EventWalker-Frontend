@@ -122,7 +122,7 @@ padding: 0 50px;
   padding: 2rem;
   background-color: #3A4148;
 }
-.bright p, h2{
+.bright p, .bright h2{
   color: #CEF5FF;
 
 }
