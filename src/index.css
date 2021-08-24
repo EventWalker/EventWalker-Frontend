@@ -58,6 +58,14 @@ font-size: 35px;
 line-height: 50px;
 }
 
+.div1 p {
+  font-weight: normal;
+  font-size: 1.5rem;
+  width: 578px;
+  height: 84px;
+  line-height: auto;
+}
+
 .div2{
   align-items: center;
   padding: 0 50px;
@@ -113,6 +121,10 @@ padding: 0 50px;
   border: 1px solid black;
   padding: 2rem;
   background-color: #3A4148;
+}
+.bright p, h2{
+  color: #CEF5FF;
+
 }
 .browser{
   height: 50vh;
