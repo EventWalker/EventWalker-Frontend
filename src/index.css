@@ -1,0 +1,263 @@
+body {
+  margin: 0;
+  font-family: 'Times New Roman', Times, serif;
+}
+.lo{
+  margin: 40px;
+  color: #CEF5FF;
+}
+nav{
+background: #3A4148;
+box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.25);
+display: flex;
+justify-content: space-between;
+
+}
+
+.logoArea {
+  display:flex;
+  align-items: center;
+}
+
+.sign{
+  display: flex;
+  flex-direction: row;
+  width: 10rem;
+  height: 2rem;
+  margin: 20px;
+  padding: 10px;
+  
+}
+button{
+  margin: 3px;
+}
+
+.signup{
+  background: #3A4148;
+  background-color: #CEF5FF;
+  letter-spacing: 1.25px;
+}
+.signin{
+  background: #3A4148;
+color: #CEF5FF;
+letter-spacing: 1.25px;
+}
+
+.divs{
+  display: flex;
+  flex-direction: row;
+  margin: 80px auto;
+}
+
+.div1{
+align-items: center;
+padding: 0 50px;
+font-style: normal;
+font-weight: bold;
+font-size: 35px;
+line-height: 50px;
+}
+
+.div2{
+  align-items: center;
+  padding: 0 50px;
+  padding-top: 50px;
+
+}
+.Landart{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  margin: 50px auto;
+align-items: center;
+padding: 0 50px;
+  
+}
+.gains{
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+ grid-gap: 10px;
+}
+.app{
+  display: flex;
+ flex-direction: row;
+}
+.but{
+  width: 62px;
+  height: 35px;
+  background: #3A4148;
+  border-radius: 4px;
+  
+}
+.inp{
+  width: 200px;
+  height: 30px;
+  border: 1px solid #020202;
+
+  border-radius: 4px;
+}
+.events{
+  display: flex;
+  flex-direction: row;
+  width: 10vw;
+  padding-left: 8rem;
+}
+.myevent{
+  margin: 50px;
+}
+.browse{
+  display: flex;
+  flex-direction: row;
+  width: 60vw;
+  margin: 80px auto;
+  border: 1px solid black;
+  padding: 2rem;
+  background-color: #3A4148;
+}
+.browser{
+  height: 50vh;
+}
+.manager{
+  width: 65vw;
+  margin: 80px auto;
+  border: 1px solid black;
+  display: flex;
+  flex-direction: row;
+  background-color: #3A4148;
+  padding: 5px;
+}
+.miss{
+ padding-left: 20rem;
+ align-items: center;
+}
+.pastevent{
+  width: 20rem;
+  margin: 20px;
+}
+
+.firstfooter{
+  background-color: #3A4148;
+  
+}
+.type{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  color: white;
+}
+.acct{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  background-color: white;
+  border: 1px solid grey;
+  width: 80vw;
+  margin: 0 10rem;
+  border-radius: 8px;
+  height: 15vh;
+  line-height: 10px;
+}
+.acct div{
+  margin: 0 30px;
+}
+.acctp{
+  padding-top: 30px;
+}
+
+.socialmedia{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  color: white;
+}
+.socialmedia2{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  
+}
+
+.signuppage{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+margin: 10rem;
+}
+.signleft{
+  border-right: 2px solid gray;
+  background-color: whitesmoke;
+}
+
+.signright{
+  display: grid;
+  grid-gap: 25px;
+ 
+}
+
+.myhome{
+  height: 10vh;
+  text-align: center;
+  background-color: #3A4148;
+  padding: 0;
+}
+.mhome{
+  height: 50vh;
+  text-align: center;
+}
+ul{
+  display: flex;
+  list-style: none;
+}
+li{
+  margin: 15px;
+}
+
+.celebraty{
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  grid-gap: 20px;
+  width: 70vw;
+  margin: 35px auto;
+
+}
+.center{
+  background-color: #3A4148;
+  width: 20rem;
+  padding: 15px;
+}
+.emage{
+  width: 20rem;
+}
+.google2{
+  background-color: #3A4148;
+}
+.add{
+  display:grid;
+  grid-gap: 20px;
+  width: 20rem;
+  margin: 30px auto;
+  height: 50vh;
+ 
+}
+.add input{
+  height: 30px;
+}
+
+.profile{
+  display:grid;
+  width: 30vw;
+  background-color: #3A4148;
+  margin: 150px auto;
+  padding: 15px;
+}
+
+.formpro{
+  display:grid;
+  grid-gap: 15px;
+}
+
+.formpro input{
+  background-color: #3A4148;
+  border: 1px solid white;
+  height: 25px;
+}
