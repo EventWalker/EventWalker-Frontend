@@ -149,14 +149,21 @@ padding: 0 50px;
   background-color: #3A4148;
   padding: 5px;
 }
+.grid-container{
+  display: grid;
+  grid-template-columns: auto auto auto auto;
+}
 .miss{
+  grid-colums: ;
+}
+/* .miss{
  padding-left: 20rem;
  align-items: center;
 }
 .pastevent{
   width: 20rem;
   margin: 20px;
-}
+} */
 
 .firstfooter{
   background-color: #3A4148;

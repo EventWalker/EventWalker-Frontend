@@ -114,14 +114,14 @@ function LandingPage() {
                         </div>
                     </div>
                 </section>
-                <section>
+                <section className='grid-container'>
                     <div className="miss">
                         <h3>Don’t Miss out on Important Updates</h3>
                         <p> It's crucial to stay up to date with what's happening day-to-day</p>
                         <p>When we know what's going on, we can do our job better.</p>
                     </div>
-                    <div>
-                        <div className="events">
+                    {/* <div> */}
+                        {/* <div className="events"> */}
                             <div className="pastevent">
                                 <img src={image9} alt="logo" />
                                 <p>Put a past Event here</p>
@@ -139,8 +139,8 @@ function LandingPage() {
                                 <p>Put a past Event here</p>
                                 <p>Attendant review <FaStar size="12px" /><FaStar size="12px" /><FaStar size="12px" /></p>
                             </div>
-                        </div>
-                    </div>
+                        {/* </div> */}
+                    {/* </div> */}
                 </section>
 
                 <footer className="firstfooter">
