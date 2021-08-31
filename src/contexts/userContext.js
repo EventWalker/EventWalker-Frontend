@@ -70,13 +70,9 @@ const UserContextProvider=({children}) => {
         type:"LOGOUT",
     });
     }
+    
 return (
-    <UserContext.Provider 
-    value = {{ loginUser, 
-    user:state.user, 
-    isPending: state.isPending,
-     registerUser, 
-     logout}}> 
+    <UserContext.Provider  value = {{ loginUser, user:state.user,  isPending: state.isPending, registerUser, logout}}> 
     {children}
     </UserContext.Provider>
 )

@@ -34,7 +34,7 @@ function SigninPage() {
                 <label>Password</label>
                 <input type="text" />
    
-                <Link to="/managershome"><button className="google2">Sign In</button></Link>
+                <Link to="/manorattendee"><button className="google2">Sign In</button></Link>
                <p> Don't Have an account ? <Link to="/signup">Sign Up</Link> </p>
            </div>
            
