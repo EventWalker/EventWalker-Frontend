@@ -49,7 +49,7 @@ const Header = ({ auth, usertype }) => {
                 <NavDropdown.Item href="#action3">Profile</NavDropdown.Item>
                 <NavDropdown.Item href="#action4">history</NavDropdown.Item>
                 <NavDropdown.Divider />
-                <NavDropdown.Item href="#action5">settings</NavDropdown.Item>
+                <NavDropdown.Item href="#action5">something</NavDropdown.Item>
                 <NavDropdown.Item href="/signup" onClick={() => logout()}>
                   Logout
                 </NavDropdown.Item>
